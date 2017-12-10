@@ -125,7 +125,7 @@ Theme: 🎄 Christmas edition
 - [ ] goldenretriever: add “ghost” files (@arturi)
 - [ ] tus: Review “tus: Remove old upload and events when starting a new upload.” b3cc48130e292f08c2a09f2f0adf6b6332bf7692 (@arturi)
 - [ ] webcam: URL.createObjectURL(MediaStream) is deprecated and will be removed soon: https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/srcObject
-- [ ] xhrupload: add bundle option to send multiple files in one request #442
+- [ ] xhrupload: add bundle option to send multiple files in one request #442 (@goto-bus-stop)
 - [ ] uppy-server: benchmarks / stress test, large file, uppy-server / tus / S3 (10 GB)
 - [ ] uppy-server: security audit, ask @acconut
 - [ ] uppy: refine UI, look into text-based file type icons or more icons for file types? (@arturi)
